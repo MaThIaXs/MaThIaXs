@@ -1,6 +1,6 @@
 ### Olá! Sou o Matheus Ferraz 👋
 
-- 🔭 Atualmente estou a procura de um estágio em Front-End
+- 🔭 Em busca de uma carreira Front-End
 - 📖 Cursando 1° período de Ciência da Computação
 - 🌱 Estudando JavaScript
 
