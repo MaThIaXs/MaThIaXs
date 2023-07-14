@@ -1,7 +1,7 @@
 ### Olá! Sou o Matheus Ferraz 👋
 
 - 🔭 Em busca de uma carreira na área de programação
-- 📖 Cursando 1° período de Ciência da Computação
+- 📖 Cursando 2° período de Ciência da Computação
 - 🌱 Estudando JavaScript
 
 <div>
