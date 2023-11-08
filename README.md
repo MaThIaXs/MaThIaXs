@@ -2,7 +2,6 @@
 
 - 🔭 Em busca de uma carreira na área de programação
 - 📖 Cursando 2° período de Ciência da Computação
-- 🌱 Estudando JavaScript
 
 <div>
   <a href="https://github.com/MaThIaXs">
